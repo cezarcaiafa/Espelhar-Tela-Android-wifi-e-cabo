@@ -1,0 +1,22 @@
+Família conto demais com o seu GOSTEI e o seu COMENTÁRIO #Rumo100K <3 
+==========================================================================
+Comandos:
+
+Seguro SHIFT + Mouse Direito Sobre a pasta e abra o PowerShell
+
+.\adb tcpip 5555 (Aperta Enter)
+.\adb connect "SEU IP":5555 (Aperta Enter)
+.\scrcpy -s "REPETE O IP":5555 (Aperta Enter)
+
+==========================================================================
+Comandos via: https://github.com/Genymobile/scrcpy#connection
+==========================================================================
+
+EXEMPLO: 
+
+.\adb tcpip 5555
+.\adb connect 192.168.1.5:5555    * ip do seu celular:porta
+.\scrcpy -s 192.168.1.5:5555      * ip do seu celular:porta
+    
+
+=========================================================================
